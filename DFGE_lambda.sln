@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFGE_lambda", "DFGE_lambda.csproj", "{AC3F192E-5ADE-481D-A2C5-66E647554A82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFGE_lambda.Tests", "..\DFGE_lambda.Tests\DFGE_lambda.Tests.csproj", "{ACF51FFD-8F2B-462C-A135-1E1AFC938897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3F192E-5ADE-481D-A2C5-66E647554A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3F192E-5ADE-481D-A2C5-66E647554A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3F192E-5ADE-481D-A2C5-66E647554A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3F192E-5ADE-481D-A2C5-66E647554A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF51FFD-8F2B-462C-A135-1E1AFC938897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF51FFD-8F2B-462C-A135-1E1AFC938897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF51FFD-8F2B-462C-A135-1E1AFC938897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF51FFD-8F2B-462C-A135-1E1AFC938897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {279C1050-BE4C-4B11-AE9F-E8DEF2A33B54}
+	EndGlobalSection
+EndGlobal
